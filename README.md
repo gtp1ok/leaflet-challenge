@@ -3,17 +3,6 @@ Module 15 Challenge
 Leaflet Homework - Visualizing Data with Leaflet
 Header
 
-Viewing the Map
-
-In order to view the map, you will need to generate your own API Key from : https://www.mapbox.com/
-This will need to be placed in either of the project folder(s) '/static/js/config.js', and the HTML and JS files changed to ensure the correct file paths are being used for visulisation.
-In order to visualise the map, you will need to spin up a local http server for this to run on.
-
-Using your command prompt (Git Bash), navigate to the directory where you have saved the index.html file, then run the command 'python -m http.server'
-This will open up the index.html in your web browser and have it running on a server, local to your machine.
-
-Alternatively, you can also use a plugin within VSCode, such as 'Live Server'
-
 
 About the Map
 
